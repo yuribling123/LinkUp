@@ -17,7 +17,16 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First, install the packages :
+
+```bash
+npm install
+```
+Second, create .env file :
+Copy paste the keys from clerk 
+
+
+Run the development server:
 
 ```bash
 npm run dev
