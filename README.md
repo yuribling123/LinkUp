@@ -24,7 +24,7 @@ npm install
 ```
 Second, create .env file :
 Copy paste the keys from clerk 
-
+Needs railway online 
 
 Run the development server:
 
